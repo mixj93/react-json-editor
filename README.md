@@ -1,6 +1,7 @@
 # reeact-json-editor
 
 React wrapper for [jsoneditor](https://github.com/josdejong/jsoneditor/)
+
 Also you can check the angular version: [angular-jsoneditor](https://github.com/isonet/angular-jsoneditor)
 
 ## Installation
